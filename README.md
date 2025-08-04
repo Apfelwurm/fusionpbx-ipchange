@@ -1,5 +1,7 @@
 # FusionPBX IP Migration Script
 
+> ⚠️ **Notice**: This script was primarily built with GitHub Copilot assistance but includes extensive human adjustments and testing. While thoroughly reviewed, there may be edge cases or issues that haven't been identified. **Always test in a non-production environment first** and ensure you have complete backups before running on production systems.
+
 A comprehensive bash script for safely migrating FusionPBX installations to a new IP address. This script automatically updates configuration files, database entries, and manages service restarts with full backup and rollback capabilities.
 
 ## 🚀 Features
